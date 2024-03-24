@@ -30,7 +30,7 @@ var config = {
         turn_on: "点我! Gyx",
         play: "放首音乐！",
         bannar_coming: "开始啦！",
-        balloons_flying: "好像少点东西",
+        balloons_flying: "气球飘起来~",
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "快许个愿望! Gyx",
